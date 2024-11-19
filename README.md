@@ -73,7 +73,7 @@ Logistic Regression ROC:
 
 ![image 8](images/tuning_acc.PNG "tuning_acc")
 
-![image 9](images/tuning_roc.PNG "tuning_roc")
+![image 9](images/tuning_roc.png "tuning_roc")
 
 ![image 10](images/confusion_matrix_tuning.png "confusion_matrix_tuning")
 
