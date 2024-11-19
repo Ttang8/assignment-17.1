@@ -71,13 +71,13 @@ Logistic Regression ROC:
 
 #### With hypertuning parameters
 
-![image 7](images/tuning_acc.PNG "tuning_acc")
+![image 8](images/tuning_acc.PNG "tuning_acc")
 
-![image 8](images/tuning_roc.PNG "tuning_roc")
+![image 9](images/tuning_roc.PNG "tuning_roc")
 
-![image 9](images/confusion_matrix_tuning.png "confusion_matrix_tuning")
+![image 10](images/confusion_matrix_tuning.png "confusion_matrix_tuning")
 
-![image 10](images/coef.PNG "coef")
+![image 11](images/coef.PNG "coef")
 
 Conclusions:
 Logistic Regression: accuracy 88.37
